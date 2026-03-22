@@ -232,7 +232,7 @@ Key learnings include:
 
 The complete internship report, including detailed analysis and supporting frameworks, is available below:
 
-- Full Report: [Download PDF](./report/Talent_Acquisition_Report.pdf)
+- **Full Report: [Download PDF](./Report.pdf)**
 
 ---
 

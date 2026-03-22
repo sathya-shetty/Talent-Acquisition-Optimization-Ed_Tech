@@ -193,32 +193,32 @@ Regular surveys were conducted to collect qualitative and quantitative insights:
 
 ---
 
-#### Continuous Improvement Approach
+#### Continuous Improvement Approach (Chapter 4)
 
-The use of data across recruitment and employee feedback enabled a continuous improvement cycle. Insights from analytics and surveys were used to:
-
-- Improve candidate experience  
-- Refine hiring strategies  
-- Enhance internal processes  
-
-This reflects the application of Total Quality Management (TQM) principles, where continuous feedback and incremental improvements contribute to long-term organizational efficiency.
+- Applied principles of **Total Quality Management (TQM) and Kaizen** for ongoing process improvement  
+- Collected regular feedback from candidates, employees, and exit surveys 
+- Used recruitment data to identify inefficiencies and bottlenecks  
+- Implemented incremental improvements in communication, screening, and hiring workflows  
+- Focused on iterative refinement rather than one-time changes
+- Improved overall efficiency and candidate experience through continuous adjustments
+  
 ---
 
 ## Outcomes
 
 The implementation of these changes resulted in measurable improvements:
 
-- Reduction in hiring cycle from approximately 12–15 days to 7–10 days  
-- Improved candidate engagement and communication  
-- Better tracking and management of applicants  
-- Increased visibility and reach of job postings  
+- Reduction in hiring cycle from approximately **12–15 days to 7–10 days**  
+- **Improved candidate engagement** and communication  
+- **Better tracking and management** of applicants  
+- **Increased visibility** and reach of job postings  
 - More structured and efficient recruitment process  
 
 ---
 
-## Key Learnings
+## Takeaway
 
-This project demonstrates the importance of applying theoretical concepts in practical settings. It highlights how structured processes, effective communication, and basic data analysis can significantly improve operational performance.
+This project demonstrates the importance of applying theoretical concepts in practical settings. It highlights how structured processes, effective communication, and basic data analysis can significantly optimize operational performance.
 
 Key learnings include:
 - The role of structured systems in improving efficiency  
@@ -239,7 +239,7 @@ The complete internship report, including detailed analysis and supporting frame
 ## Author
 
 Sathya Prasad N Shetty  
-Bachelor of Business Administration (BBA)  
+Bachelor of Business Administration (BBA)  (2023-2026)
 Manipal Academy of Higher Education  
 
-This project reflects the application of management principles and analytical thinking to solve real-world challenges in talent acquisition.
+This project reflects the application data analysis and structered processes in optimizing the recruitment process.
